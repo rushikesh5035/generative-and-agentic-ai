@@ -1,0 +1,104 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vim/
+
+# OS
+Thumbs.db
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+secrets.json
+apikey.txt
+credentials.json
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IPython
+.ipython/
+profile_default/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.swp
+*.swo
+*~
+
+# IDE
+*.code-workspace
+
+# VS Code
+.vscode/
+launch.json
+settings.json
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Directories
+.cache/
+temp/
+tmp/
+
+# Output files
+*.out
+output/
+results/
